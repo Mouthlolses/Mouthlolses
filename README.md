@@ -1,7 +1,7 @@
-### Olá! Me chamo Matheus Bento 🫡
+### Hi! My name is Matheus Bento Vieira 🫡
 
-  Apaixonado por desenvolvimento de Aplicativos Mobile
-  
+Passionate about mobile app development.
+
  -  Kotlin / Kotlin Multiplataform 
 
  - Javascript / Typescript
