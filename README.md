@@ -2,7 +2,7 @@
 
 Passionate about mobile app development.
 
- -  Kotlin / Kotlin Multiplataform 
+ -  Kotlin / Gradle / Jetpack Compose 
 
  - Javascript / Typescript
 
