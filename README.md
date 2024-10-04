@@ -15,7 +15,6 @@ Passionate about mobile app development.
   <img align="center" alt="Mat-Compose" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
   <img align="center" alt="Mat-Fb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Mat-Ktor" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg">
-  <img align="center" alt="Mat-Tp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="Mat-MongoDb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
 </div> 
 
