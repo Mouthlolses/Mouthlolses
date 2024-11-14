@@ -1,10 +1,11 @@
 ### Hi! My name is Matheus Bento Vieira 🫡
 
-Passionate about mobile app development.
+I'm a software developer passionate about mobile and web technologies. I love building seamless user experiences with a focus on native Android development and responsive web design.
 
- -  Kotlin / Gradle / Jetpack Compose 
+#### Tech Stack:
 
- - Javascript / Typescript
+- **Mobile:** Kotlin, Jetpack Compose, Gradle, Android SDK
+- **Web:** JavaScript, TypeScript
 
 
 ###
