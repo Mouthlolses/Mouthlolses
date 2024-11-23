@@ -12,6 +12,7 @@ I'm a software developer passionate about mobile and web technologies. I love bu
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-Kt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+  <img align="center" alt="Mat-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Mat-Android" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
   <img align="center" alt="Mat-Compose" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
   <img align="center" alt="Mat-Fb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg">
