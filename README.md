@@ -4,7 +4,7 @@ I'm a software developer passionate about mobile and web technologies. I love bu
 
 #### Tech Stack:
 
-- **Mobile:** Kotlin, Jetpack Compose, Gradle, Android SDK
+- **Mobile:** Kotlin, Java, Jetpack Compose, Gradle, Android SDK
 - **Web:** JavaScript, TypeScript
 
 
