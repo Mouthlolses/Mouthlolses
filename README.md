@@ -1,6 +1,5 @@
 ### Hi!🫡
 
-I'm a software developer passionate about mobile and web technologies. I love building seamless user experiences with a focus on native Android development and responsive web design.
 
 #### Tech Stack:
 
