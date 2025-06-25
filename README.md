@@ -4,7 +4,7 @@
 #### Tech Stack:
 
 - **Mobile:** Kotlin, Java, Jetpack Compose, Gradle, Android SDK
-- **Backend:** Java, Nodejs
+- **Backend:** Java, Nodejs, Scala
 
 
 ###
