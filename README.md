@@ -3,11 +3,10 @@
 I’m a passionate and self-driven Android Developer with a strong foundation in Kotlin, Jetpack Compose, and modern Android development practices. My passion for problem-solving drives me to find efficient solutions through Android development. 📱
 
 #
-
 #### Hard Skills:
 
 - **Programming Languages:** Kotlin, Java, Scala ⚙️
-- **Frameworks and Libraries::** Android SDK, Retrofit, OkHttp, Kotlinx Serialization, Hilt, Koin 🌐
+- **Frameworks and Libraries:** Android SDK, Retrofit, OkHttp, Kotlinx Serialization, Hilt, Koin 🌐
 - **Database**: MySQL, SQLite, MongoDB 🗄️
 - **Asynchronous Programming**: Coroutines / Flow 🧵
 - **ORM Android**: Room (SQLite), Realm, DataStore 🔄
@@ -44,7 +43,6 @@ I’m a passionate and self-driven Android Developer with a strong foundation in
 - **Empathy**: Understanding user needs and team dynamics to build more thoughtful and impactful apps.
 - **Open to Feedback**: Receives constructive criticism positively and uses it to improve.
 
-###
 #
 
 ###
