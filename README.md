@@ -6,7 +6,7 @@ I’m a passionate and self-driven Android Developer with a strong foundation in
 #### Hard Skills:
 
 - **Programming Languages:** Kotlin, Java, Scala ⚙️
-- **Frameworks and Libraries:** Android SDK, Retrofit, OkHttp, Kotlinx Serialization, Hilt, Koin 🌐
+- **Frameworks and Libraries:** Android SDK, Retrofit, OkHttp, Kotlinx Serialization, Hilt 🌐
 - **Database**: MySQL, SQLite, MongoDB 🗄️
 - **Asynchronous Programming**: Coroutines / Flow 🧵
 - **ORM Android**: Room (SQLite), Realm, DataStore 🔄
