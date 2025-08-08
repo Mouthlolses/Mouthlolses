@@ -9,7 +9,7 @@ I’m a passionate and self-driven Android Developer with a strong foundation in
 - **Frameworks and Libraries:** Android SDK, Retrofit, OkHttp, Kotlinx Serialization, Hilt 🌐
 - **Database**: MySQL, SQLite, MongoDB 🗄️
 - **Asynchronous Programming**: Coroutines / Flow 🧵
-- **ORM Android**: Room (SQLite), Realm, DataStore 🔄
+- **ORM Android**: Room (SQLite), Realm 🔄
 - **Architectures**: MVVM, MVI, MVP 🧱
 - **Development Tools**: Android Studio, Gradle, IntelliJ 🧩
 - **Code Versioning**: Git, GitFlow 🧭
