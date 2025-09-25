@@ -32,19 +32,6 @@ I’m a passionate and self-driven Android Developer with a strong foundation in
 
 #
 
-#### Soft Skills: 
-
-- **Problem-Solving**: Ability to analyze complex issues and implement efficient, maintainable solutions.
-- **Adaptability**: Comfortable with changing technologies, tools, and project requirements in a fast-paced environment.
-- **Communication**: Clear and effective in both written and verbal communication, essential for collaborating with cross-functional teams (design, backend, QA, product).
-- **Teamwork**: Capable of working well in a team setting, participating in code reviews, and helping peers improve.
-- **Accountability**: Takes ownership of tasks and delivers high-quality work, even when working independently.
-- **Curiosity & Continuous Learning**: Motivated to stay updated with the latest Android tools, libraries, and design patterns.
-- **Empathy**: Understanding user needs and team dynamics to build more thoughtful and impactful apps.
-- **Open to Feedback**: Receives constructive criticism positively and uses it to improve.
-
-#
-
 ###
 **My Social Network**🙋‍♂️
 
