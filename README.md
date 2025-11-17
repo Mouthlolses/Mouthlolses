@@ -9,11 +9,13 @@ I also build backend services in Kotlin and Java, using Spring Boot and Ktor to 
 
 * **Backend** - Kotlin • Java • Spring Boot • Ktor
 
+* **Web** - Javascript • Typescript • Astro • Angular • React
+
 * **Architecture** - MVVM • MVI • Clean Architecture
 
 
 ###
- [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,spring,ktor,gradle,docker,firebase,hibernate,mysql,postgres,js,astro,figma,aws,graphql&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,spring,ktor,gradle,maven,docker,firebase,hibernate,mysql,postgres,js,ts,astro,react,angular,aws,graphql&perline=10)](https://skillicons.dev)
 
 #
 
