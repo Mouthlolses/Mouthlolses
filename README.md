@@ -15,7 +15,7 @@ I also build backend services in Kotlin and Java, using Spring Boot and Ktor to 
 
 
 ###
- [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,spring,ktor,gradle,maven,docker,firebase,hibernate,mysql,postgres,js,ts,astro,react,angular,aws,graphql&perline=10)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,spring,ktor,gradle,maven,docker,firebase,hibernate,mysql,postgres,js,ts,nodejs,astro,react,angular,aws,graphql&perline=10)](https://skillicons.dev)
 
 #
 
@@ -23,3 +23,11 @@ I also build backend services in Kotlin and Java, using Spring Boot and Ktor to 
 **My Social Network**🙋‍♂️
 
 <a href="https://www.linkedin.com/in/matheusbentov/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouthlolses&layout=compact&theme=dark)
+
+
+
+
