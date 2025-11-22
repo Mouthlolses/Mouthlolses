@@ -7,7 +7,7 @@ I also build backend services in Kotlin and Java, using Spring Boot and Ktor to 
 
 * **Android** - Kotlin • Jetpack Compose • View System • Android SDK
 
-* **Backend** - Kotlin • Java • Spring Boot • Ktor
+* **Backend** - Kotlin • Java • Scala • Spring Boot • Ktor • Play Framework
 
 * **Web** - Javascript • Typescript • Astro • Angular • React
 
@@ -15,7 +15,7 @@ I also build backend services in Kotlin and Java, using Spring Boot and Ktor to 
 
 
 ###
- [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,spring,ktor,gradle,maven,docker,firebase,hibernate,mysql,postgres,js,ts,nodejs,astro,react,angular,aws,graphql&perline=10)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=kotlin,java,scala,androidstudio,spring,ktor,gradle,maven,docker,firebase,hibernate,mysql,postgres,js,ts,nodejs,astro,react,angular,aws,graphql&perline=11)](https://skillicons.dev)
 
 #
 
