@@ -26,8 +26,3 @@ I also build backend services in Kotlin and Java, using Spring Boot and Ktor to 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouthlolses&layout=compact&theme=dark)
-
-
-
-
