@@ -20,7 +20,7 @@ I also build backend services in Kotlin and Java, using Spring Boot and Ktor to 
 #
 
 ###
-**My Social Network**🙋‍♂️
+**My Social Network**
 
 <a href="https://www.linkedin.com/in/matheusbentov/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
