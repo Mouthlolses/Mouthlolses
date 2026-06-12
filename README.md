@@ -7,7 +7,7 @@ I also build backend services in Kotlin and Java, using Spring Boot and Ktor to 
 
 * **Android** - Kotlin • Jetpack Compose • View System • Android SDK
 
-* **Backend** - Kotlin • Java • Scala • Spring Boot • Ktor • Play Framework
+* **Backend** - Kotlin • Java • Spring Boot • Ktor
 
 * **Web** - Javascript • Typescript • Astro • Angular • React
 
