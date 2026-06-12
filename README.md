@@ -1,4 +1,4 @@
-Hi! 🫡 I'm Matheus
+I'm Matheus
 
 I’m an Software Developer focused on building clean, scalable and modern mobile experiences using Kotlin and Jetpack Compose. I enjoy solving problems, designing reliable architecture, and delivering apps that feel great to use. 📱
 
