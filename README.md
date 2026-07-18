@@ -15,7 +15,7 @@ I also build backend services in Kotlin and Java, using Spring Boot and Ktor to 
 
 
 ###
- [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,spring,ktor,hibernate,firebase,postgres,mongodb,typescript,nodejs,react,astro,docker,aws,graphql&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,ktor,java,spring,firebase,maven,rails,typescript,nodejs,react,gcp,aws,postgres,mongodb,docker&perline=8)](https://skillicons.dev)
 
 #
 
