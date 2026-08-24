@@ -1,6 +1,6 @@
 I'm Matheus
 
-I’m an Software Developer focused on building clean, scalable and modern mobile experiences using Kotlin and Jetpack Compose. I enjoy solving problems, designing reliable architecture, and delivering apps that feel great to use. 📱
+A Software Developer focused on building clean, scalable, and modern mobile experiences with Kotlin and Jetpack Compose. I enjoy solving problems, designing reliable architectures, and building apps that are not only well-engineered, but also great to use. 📱
 
 I also build backend services in Kotlin and Java, using Spring Boot and Ktor to create robust and efficient APIs. 🚀
 #
