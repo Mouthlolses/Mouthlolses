@@ -9,7 +9,7 @@ I also build backend services in Kotlin and Java, using Spring Boot and Ktor to 
 
 * **Backend** - Kotlin • Java • Spring Boot • Ktor
 
-* **Web** - Javascript • Typescript • Astro • Angular • React
+* **Web** - Javascript • Typescript • Astro • React
 
 * **Architecture** - MVVM • MVI • Clean Architecture
 
