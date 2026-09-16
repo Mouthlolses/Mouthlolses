@@ -5,13 +5,13 @@ A Software Developer focused on building clean, scalable, and modern mobile expe
 I also build backend services in Kotlin and Java, using Spring Boot and Ktor to create robust and efficient APIs. 🚀
 #
 
-* **Android** - Kotlin • Jetpack Compose • View System • Android SDK
+* **Android** - Kotlin • Jetpack Compose • Kotlin Multiplatform • Compose Multiplatform • React Native
 
-* **Backend** - Kotlin • Java • Spring Boot • Ktor
+* **Backend** - Kotlin • Java • Ruby • Spring Boot • Ktor • Rails
 
 * **Web** - Typescript • Astro • React
 
-* **Architecture** - MVVM • MVI • Clean Architecture
+* **Architecture** - MVC • MVVM • MVI • Clean Architecture
 
 
 ###
