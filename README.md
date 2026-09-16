@@ -5,7 +5,7 @@ A Software Developer focused on building clean, scalable, and modern mobile expe
 I also build backend services in Kotlin and Java, using Spring Boot and Ktor to create robust and efficient APIs. 🚀
 #
 
-* **Android** - Kotlin • Jetpack Compose • Kotlin Multiplatform • Compose Multiplatform • React Native
+* **Android** - Kotlin • Jetpack Compose • Kotlin Multiplatform • Compose Multiplatform
 
 * **Backend** - Kotlin • Java • Ruby • Spring Boot • Ktor • Rails
 
@@ -15,7 +15,7 @@ I also build backend services in Kotlin and Java, using Spring Boot and Ktor to 
 
 
 ###
- [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,ktor,java,spring,firebase,redis,typescript,react,astro,nodejs,gcp,aws,postgres,mongodb,docker&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,ktor,java,spring,ruby,rails,typescript,react,astro,nodejs,gcp,aws,postgres,mongodb,docker&perline=8)](https://skillicons.dev)
 
 #
 
