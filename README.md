@@ -1,17 +1,49 @@
-I'm Matheus
+Hi, I'm Matheus 👋
 
-A Software Developer focused on building clean, scalable, and modern mobile experiences with Kotlin and Jetpack Compose. I enjoy solving problems, designing reliable architectures, and building apps that are not only well-engineered, but also great to use. 📱
+Software Engineer focused on Kotlin, Android, and backend development.
 
-I also build backend services in Kotlin and Java, using Spring Boot and Ktor to create robust and efficient APIs. 🚀
+I build modern, reliable software with a strong focus on Kotlin, Android, Kotlin Multiplatform, and backend engineering. I enjoy solving complex problems, designing maintainable architectures, and building software that is both technically solid and pleasant to use.
+
+I'm particularly interested in Android platform development, developer tooling, reusable libraries, and scalable backend systems — with a long-term goal of building tools and infrastructure that make other developers more productive.
+
+I also work with modern C++ (C++20+) and I'm currently expanding my experience with Unreal Engine and game development.
 #
+🛠️ Core Stack
 
-* **Android** - Kotlin • Jetpack Compose • Kotlin Multiplatform • Compose Multiplatform
+Mobile & Multiplatform
+Kotlin • Android • Jetpack Compose • Kotlin Multiplatform • Compose Multiplatform
 
-* **Backend** - Kotlin • Java • Ruby • Spring Boot • Ktor • Rails
+Backend
+Kotlin • Ktor • Spring Boot • Java • PostgreSQL • REST APIs
 
-* **Web** - Typescript • Astro • React
+Platform & Tooling
+Android Libraries • Gradle • KSP • Code Generation • Developer Tooling
 
-* **Architecture** - MVC • MVVM • MVI • Clean Architecture
+Systems & Game Development
+C++20+ • Unreal Engine
+
+Architecture & Engineering
+Clean Architecture • MVVM • MVI • SOLID • Design Patterns • Modularization
+
+Development
+Git • GitHub • CI/CD • Testing • Code Review
+#
+🚀 What I'm Building
+
+I'm currently focused on growing as a Kotlin/Android engineer while exploring the deeper layers of the ecosystem:
+
+Android platform and framework development
+Kotlin Multiplatform applications and shared architectures
+Reusable Android and Kotlin libraries
+Gradle plugins and developer tooling
+KSP and code generation
+Backend services with Ktor and Spring Boot
+Modern C++ and Unreal Engine
+🎯 Engineering Interests
+
+Android • Kotlin • Kotlin Multiplatform • Backend • Developer Tooling • SDK & Library Design • C++ • Game Development
+
+I enjoy learning by building, contributing to real-world projects, and continuously improving the way software is designed, tested, and delivered.
 
 
 ###
