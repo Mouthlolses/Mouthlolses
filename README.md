@@ -6,7 +6,6 @@ I build modern, reliable software with a strong focus on Kotlin, Android, Kotlin
 
 I'm particularly interested in Android platform development, developer tooling, reusable libraries, and scalable backend systems — with a long-term goal of building tools and infrastructure that make other developers more productive.
 
-I also work with modern C++ (C++20+) and I'm currently expanding my experience with Unreal Engine and game development.
 #
 🛠️ Core Stack
 
@@ -18,9 +17,6 @@ Kotlin • Ktor • Spring Boot • Java • PostgreSQL • REST APIs
 
 Platform & Tooling
 Android Libraries • Gradle • KSP • Code Generation • Developer Tooling
-
-Systems & Game Development
-C++20+ • Unreal Engine
 
 Architecture & Engineering
 Clean Architecture • MVVM • MVI • SOLID • Design Patterns • Modularization
@@ -38,16 +34,16 @@ Reusable Android and Kotlin libraries
 Gradle plugins and developer tooling
 KSP and code generation
 Backend services with Ktor and Spring Boot
-Modern C++ and Unreal Engine
+
 🎯 Engineering Interests
 
-Android • Kotlin • Kotlin Multiplatform • Backend • Developer Tooling • SDK & Library Design • C++ • Game Development
+Android • Kotlin • Kotlin Multiplatform • Backend • Developer Tooling • SDK & Library Design
 
 I enjoy learning by building, contributing to real-world projects, and continuously improving the way software is designed, tested, and delivered.
 
 
 ###
- [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,ktor,java,spring,ruby,rails,typescript,react,astro,nodejs,gcp,aws,postgres,mongodb,docker&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,ktor,java,spring,ruby,rails,cpp,typescript,react,astro,nodejs,gcp,aws,postgres,mongodb,docker&perline=9)](https://skillicons.dev)
 
 #
 
