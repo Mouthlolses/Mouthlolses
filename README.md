@@ -43,7 +43,7 @@ I enjoy learning by building, contributing to real-world projects, and continuou
 
 
 ###
- [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,ktor,java,spring,ruby,rails,cpp,typescript,react,astro,nodejs,gcp,aws,postgres,mongodb,docker&perline=9)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,ktor,java,spring,ruby,rails,typescript,react,astro,nodejs,gcp,aws,postgres,mongodb,docker&perline=8)](https://skillicons.dev)
 
 #
 
