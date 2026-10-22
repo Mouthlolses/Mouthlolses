@@ -26,8 +26,6 @@ Git • GitHub • CI/CD • Testing • Code Review
 #
 🚀 What I'm Building
 
-I'm currently focused on growing as a Kotlin/Android engineer while exploring the deeper layers of the ecosystem:
-
 Android platform and framework development
 Kotlin Multiplatform applications and shared architectures
 Reusable Android and Kotlin libraries
